@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @itanzir
+- 👋 Hi, I’m @itanzir | Tanzir Ahmed
 - 👀 I’m interested in ...exploring new way of doing things
 - 🌱 I’m currently learning ... ranges of technologies around data and analytics
-- 💞️ I’m looking to collaborate on ...
 - 📫 tanzir.bu@live.com 
 
 <!---
